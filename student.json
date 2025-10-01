@@ -1,0 +1,21 @@
+{
+    "name": "sai thota",
+    "dob": "12-04-2003",
+    "addresses": [
+        {
+            "type": "current",
+            "doono": "5-171",
+            "street": "Inkollu",
+            "city": "Inkollu",
+            "pin": 523167
+        },
+        {
+            "type": "perm",
+            "doono": "5-171",
+            "street": "Inkollu",
+            "city": "Inkollu",
+            "pin": 523167
+        }
+    ],
+    "skills": ["java", "devops", "cloud"]
+}

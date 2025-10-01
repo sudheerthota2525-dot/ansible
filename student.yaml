@@ -1,0 +1,41 @@
+- name: "sudheer thota"
+  dob: "25-07-2001"
+  age: 24
+  addresses:
+    # Object
+  - doorNo: 5-171
+    street: "Inkollu"
+    city: Inkollu
+    pin: 523167
+    type: current
+  
+  - doorNo: 5-171
+    street: "Inkollu"
+    city: Inkollu
+    pin: 523167
+    type: perm
+  skills:
+  - java
+  - devops
+  - cloud
+
+- name: "sai thota"
+  dob: "12-04-2003"
+  age: 22
+  addresses:
+    # Object
+  - doorNo: 5-171
+    street: "Inkollu"
+    city: Inkollu
+    pin: 523167
+    type: current
+  
+  - doorNo: 5-171
+    street: "Inkollu"
+    city: Inkollu
+    pin: 523167
+    type: perm
+  skills:
+  - java
+  - devops
+  - cloud
